@@ -1,0 +1,10 @@
+.venv/
+.venv-figures/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+runs/
+analysis/
+figures/
+*.log
