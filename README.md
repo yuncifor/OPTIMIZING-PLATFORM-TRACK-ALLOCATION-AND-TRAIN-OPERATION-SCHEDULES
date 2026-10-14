@@ -26,7 +26,6 @@ The relevant rights holders reserve the right to seek remedies under applicable 
 - data/cp2025/: the 15 instances used by the experiment manifest.
 - experiments/manifest.csv: instances, seeds, budgets and repetitions.
 - raw_results/: saved reference runs and complete schedules when feasible.
-- results/: run tables and statistical summaries.
 
 ## Reference results
 
