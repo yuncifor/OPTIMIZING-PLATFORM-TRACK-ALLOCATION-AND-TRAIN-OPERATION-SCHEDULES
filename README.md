@@ -1,4 +1,4 @@
-# Train platforming and dispatching with QEA-LNS
+# Train platforming and dispatching 
 
 Python implementations of FCFS, MILP and QEA-LNS for a five-track station with 45 controlled track sections. All solver source files are included. Inputs specify earliest operation start times, allowed routes and minimum running and dwell requirements.
 
